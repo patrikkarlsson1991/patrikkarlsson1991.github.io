@@ -3,8 +3,6 @@ logo: "/images/Profilbild - Patrik Karlsson (Oval).png" # your photo (or logo) h
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Management Consultant & Data Scientist 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/patrikkarlsson91/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
